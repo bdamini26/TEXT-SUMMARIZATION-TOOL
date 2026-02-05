@@ -12,6 +12,9 @@ DOMAIN: ARTIFICAL INTELLIGENCE
 DURATION: 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
+
+OUTPUT:
+<img width="2551" height="1364" alt="Image" src="https://github.com/user-attachments/assets/ce033e09-1730-4182-a9f8-412d2a5b7ae4" />
 # 📝 Text Summarization Tool
 
 ### CodTech Internship – Task 1  
