@@ -3,7 +3,7 @@ A Python-based Text Summarization Tool that generates concise summaries from len
 
 COMPANY: CODTECH IT SOLUTIONS
 
-*NAME*: MUZAMMILI AHMED
+NAME : BANDI DAMINI
 
 INTERN ID: CTIS5243
 
