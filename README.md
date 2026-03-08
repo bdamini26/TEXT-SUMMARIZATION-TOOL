@@ -1,4 +1,4 @@
-# TEXT-SUMMARIZATION-TOOL
+# text-summarization tool
 A Python-based Text Summarization Tool that generates concise summaries from lengthy text using Natural Language Processing (NLTK). 
 
 COMPANY: CODTECH IT SOLUTIONS
