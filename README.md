@@ -1,4 +1,5 @@
 A Python-based Text Summarization Tool that generates concise summaries from lengthy text using Natural Language Processing (NLTK). 
+
 OUTPUT:
 <img width="2551" height="1364" alt="Image" src="https://github.com/user-attachments/assets/ce033e09-1730-4182-a9f8-412d2a5b7ae4" />
 # 📝 Text Summarization Tool
