@@ -1,26 +1,7 @@
-# text-summarization tool
 A Python-based Text Summarization Tool that generates concise summaries from lengthy text using Natural Language Processing (NLTK). 
-
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME : BANDI DAMINI
-
-INTERN ID: CTIS5243
-
-DOMAIN: ARTIFICAL INTELLIGENCE
-
-DURATION: 4 WEEEKS
-
-MENTOR: NEELA SANTOSH
-
 OUTPUT:
 <img width="2551" height="1364" alt="Image" src="https://github.com/user-attachments/assets/ce033e09-1730-4182-a9f8-412d2a5b7ae4" />
 # 📝 Text Summarization Tool
-
-### CodTech Internship – Task 1  
-A Natural Language Processing based tool that summarizes lengthy articles into short and meaningful content using Python and NLTK.
-
----
 
 ## 🔍 Project Overview
 
